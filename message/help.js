@@ -426,7 +426,7 @@ return`
 
 `}
 exports.allMenu = (prefix, cmhit, runtime, pushname, isOwner, isPremium, gcount, sender, baterai) => {
-    return `━━━━━『DHA BOTZ』━━━━━
+    return `━━━━━『AMANE BOTZ』━━━━━
 
 𝗜𝗡𝗙𝗢 𝗣𝗘𝗡𝗚𝗚𝗨𝗡𝗔 𝗕𝗢𝗧
 ❏ NAMA : *${pushname}*
